@@ -1,0 +1,12 @@
+{
+  "name": "phptravel_automation_framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
