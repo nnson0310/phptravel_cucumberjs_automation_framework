@@ -1,0 +1,14 @@
+{
+    "cucumberautocomplete.steps": [
+        "step-definitions/*.js"
+    ],
+    "cucumberautocomplete.syncfeatures": "features/*.feature",
+    "cucumberautocomplete.strictGherkinCompletion": false,
+    "cucumberautocomplete.onTypeFormat": true,
+    "editor.quickSuggestions": {
+        "comments": false,
+        "strings": true,
+        "other": true
+    },
+    "cucumberautocomplete.gherkinDefinitionPart": "(Given|When|Then)\\("
+}
